@@ -9,6 +9,8 @@ public class OnlineMovipricingApplication {
 		 
 		SpringApplication.run(OnlineMovipricingApplication.class, args);
 		
+		
+		
 	}
 
 }
