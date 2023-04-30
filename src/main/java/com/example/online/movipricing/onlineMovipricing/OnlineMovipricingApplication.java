@@ -7,10 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class OnlineMovipricingApplication {
 	 public static void main(String[] args) {
 		 
-		SpringApplication.run(OnlineMovipricingApplication.class, args);
-		
-		
-		
+		SpringApplication.run(OnlineMovipricingApplication.class, args);	
 	}
 
 }
