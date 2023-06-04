@@ -8,8 +8,8 @@
 		<version>2.7.11</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example.online.movipricing</groupId>
-	<artifactId>onlineMovipricing</artifactId>
+	<groupId>com.example.online</groupId>
+	<artifactId>movipricing</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>onlineMovipricing</name>
