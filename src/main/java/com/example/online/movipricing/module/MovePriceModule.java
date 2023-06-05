@@ -7,7 +7,9 @@ public class MovePriceModule implements Serializable{
 	public String moveprice;
 	public String moveID;
 	
-	
+	public MovePriceModule() {
+		super();
+	}
 	public MovePriceModule(String moveprice, String moveID) {
 		super();
 		this.moveprice = moveprice;
